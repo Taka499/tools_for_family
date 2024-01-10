@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">复利率</string>
+    <string name="original_value">输入本金</string>
+    <string name="interest">输入利息</string>
+    <string name="time">输入时间（年/整数）</string>
+    <string name="original_value_view">本金</string>
+    <string name="interest_view">利息</string>
+    <string name="time_view">时间（年/整数）</string>
+    <string name="calculate">计算</string>
+    <string name="warning">请输入后再点击计算</string>
+</resources>
